@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Nerd!
-- 👀 I’m interested in coding for anyone
-- 🌱 I’m currently learning C++ and JS
-- 💞️ I’m looking to collaborate on anything tbh
+- 🌱 I’m currently learning Lua
 - 📫 How to reach me: You can contact me through discord! My discord user is Nerd#7777
