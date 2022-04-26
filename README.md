@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Nerd!
-- 🌱 I’m currently learning Lua
-- 📫 How to reach me: You can contact me through discord! My discord user is Nerd#7777
+- I love coding in JavaScript and TypeScript
+- I enjoy making youtube videos! YouTube: 
+- Self taught programmer
+- Currently learning Lua
