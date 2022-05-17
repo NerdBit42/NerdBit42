@@ -1,4 +1,4 @@
 - I love coding in JavaScript and TypeScript
-- I enjoy making youtube videos! YouTube: 
+- I enjoy making youtube videos! YouTube: Nerd (Link: I forgot the link but I'll find it)
 - Self taught programmer
 - Currently learning Lua
